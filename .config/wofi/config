@@ -1,0 +1,29 @@
+## General
+show=drun
+prompt=Apps
+normal_window=true
+layer=top
+term=foot
+
+## Geometry
+orientation=vertical
+location=center
+line_wrap=off
+dynamic_lines=false
+
+## Images
+allow_markup=true
+allow_images=true
+image_size=24
+
+## Search
+exec_search=false
+hide_search=false
+parse_search=false
+insensitive=false
+
+## Other
+no_actions=true
+sort_order=default
+gtk_dark=true
+filter_rate=100
