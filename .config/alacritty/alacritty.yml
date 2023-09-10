@@ -2,6 +2,7 @@
 
 import:
   - ~/.config/alacritty/colors.yml
+  # - ~/.config/alacritty/themes/themes/tokyo-night.yaml
   - ~/.config/alacritty/fonts.yml
   - ~/.config/alacritty/bell.yml
   - ~/.config/alacritty/Keybindings.yml
