@@ -31,7 +31,7 @@
         "tray",
         "clock"
     ],
-    "wlr/workspaces": {
+    "hyprland/workspaces": {
         "on-click": "activate",
         "format": "{icon}",
         "all-outputs": true,
